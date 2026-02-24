@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Coleção 2k26",
+      "slug": "colecao-2k26-1",
+      "price": 99,
+      "image": "/Colecao2k26-1.jpg",
+      "description": "Coleção 2k26 🐊 Produto original 🏅 Receba no mesmo dia em SP 🏍️💨 Enviamos para todo 🇧🇷",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "Coleção 2k26",
+      "slug": "colecao-2k26-2",
+      "price": 99,
+      "image": "/Colecao2k26-2.jpg",
+      "description": "Coleção 2k26 🐊 Produto original 🏅 Receba no mesmo dia em SP 🏍️💨 Enviamos para todo 🇧🇷",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "title": "Coleção 2k26",
+      "slug": "colecao-2k26-3",
+      "price": 99,
+      "image": "/Colecao2k26-3.jpg",
+      "description": "Coleção 2k26 🐊 Produto original 🏅 Receba no mesmo dia em SP 🏍️💨 Enviamos para todo 🇧🇷",
+      "featured": false
+    },
+    {
+      "id": 4,
+      "title": "Manga Longa Tommy US",
+      "slug": "manga-longa-tommy-us",
+      "price": 330,
+      "image": "/MangaLongaTommyUS.jpg",
+      "description": "Cinza M Verde M/L/XL",
+      "featured": true
+    }
+  ]
+}
