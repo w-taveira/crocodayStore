@@ -5,7 +5,7 @@ import { Suspense } from "react";
 export default function SearchLoading() {
   return (
     <div className="flex flex-col gap-4">
-      <Suspense>
+      <Suspense fallback={null}>
         <CurrentSearch />
       </Suspense>
 
