@@ -11,7 +11,7 @@ export function Header() {
         <Link href="/" className="text-2xl font-extrabold text-white">
           CROCODAY
         </Link>
-        <Suspense fallback="Loading...">
+        <Suspense fallback={null}>
           <SearchForm />
         </Suspense>
         
