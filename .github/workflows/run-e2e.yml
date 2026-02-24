@@ -19,7 +19,7 @@ jobs:
           cache: true
 
       - name: Install dependencies
-        run: pnpm install --frozen-lockfile
+        run: pnpm install --frozen-lockfile --ignore-scripts=false
 
       # and run all Cypress tests
       - name: Cypress run
